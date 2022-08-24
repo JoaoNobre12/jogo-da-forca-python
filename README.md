@@ -1,1 +1,1 @@
-# jogo-da-forca-python
+# jogos-forca-advinhacao-python
